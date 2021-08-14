@@ -1,2 +1,0 @@
-# medhat-first-project
-Fantastic
